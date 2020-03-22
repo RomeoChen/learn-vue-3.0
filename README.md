@@ -12,15 +12,21 @@ Also note that if you are using VSCode, Vetur isn't updated to take advantage of
 ### Install
 ```sh
 npm install
+or
+yarn
 ```
 ### Usage
 ##### Develop
 ```sh
 # run dev server at localhost:8080
 npm run dev
+or
+yarn dev
 ```
 ##### Build
 ```sh
 # transpile js for deployment
 npm run build
+or 
+yarn build
 ```
